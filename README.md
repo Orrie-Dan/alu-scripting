@@ -1,1 +1,1 @@
-# alu-scripting
+Simply matching School
