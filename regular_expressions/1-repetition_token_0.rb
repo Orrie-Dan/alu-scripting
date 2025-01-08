@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-(<Hbt*n>)
+(<Hbt+n>)
