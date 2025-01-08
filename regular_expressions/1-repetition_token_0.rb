@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-^hbt*n$
+^hbt[2,5]n$
